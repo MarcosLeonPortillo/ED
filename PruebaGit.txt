@@ -1,2 +1,6 @@
 Frase de prueba del fichero. Nueva frase
+<<<<<<< HEAD
 Estoy peleando conmigo mismo
+=======
+Estoy creando un conflicto
+>>>>>>> e017d54d64e4bf23d014f7720c8c90071c899a5b
